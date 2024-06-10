@@ -3,7 +3,7 @@ It is used to keep a track of an individual's income, expenses and investments. 
 It takes input from the user and stores the transactions.<br />
 It allows to set monthly budget for expenses and investments gives an alert if the transactions go beyond the set budget. <br />
 It calculates monthly totals to give an overview of monthly transactions. <br />
-It has a feature to store the transactions in a csv file and revisit whenever required. <br />
+It has a feature to store the transactions in a csv file and revisit whenever required. <br /> 
 
 # Use Cases
 a) Personal Budgeting:<br />
